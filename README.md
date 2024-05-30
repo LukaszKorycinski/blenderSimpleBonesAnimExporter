@@ -1,4 +1,7 @@
-# blenderSimpleAnimExporter
+Python script for blender, exports mesh, and armature animation data to text format.
+Output goes to blender folder
+Example file:
+
 vnt
 verts:xyz,bones:xzy
 -1.0 -1.0 0.0 0.0 0.0 1.0 0.0716 0.0325
