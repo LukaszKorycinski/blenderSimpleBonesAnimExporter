@@ -1,6 +1,6 @@
 Python script for blender, exports mesh, and armature animation data to text format.
 Output goes to blender folder
-Example file:
+Example file (vertex normal texcoord):
 
 vnt
 verts:xyz,bones:xzy
